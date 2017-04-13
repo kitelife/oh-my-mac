@@ -3,11 +3,11 @@
 ## 系统工具
 
 - [Homebrew](https://brew.sh/)
+- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ## 效率工具
 
 - [Alfred](https://www.alfredapp.com/)
-- [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 
 ## 开发工具
 
