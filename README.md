@@ -8,10 +8,10 @@
 ## 效率工具
 
 - [Alfred](https://www.alfredapp.com/)
+- [Dash](https://kapeli.com/dash)
 
 ## 开发工具
 
-- [Dash](https://kapeli.com/dash)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [SourceTree](https://www.sourcetreeapp.com/)
 
