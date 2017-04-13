@@ -12,6 +12,8 @@
 ## 开发工具
 
 - [Dash](https://kapeli.com/dash)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [SourceTree](https://www.sourcetreeapp.com/)
 
 ## 影音工具
 
