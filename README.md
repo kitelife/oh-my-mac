@@ -31,6 +31,8 @@
 
 ## 其他
 
+- [osx-terminal-themes](https://github.com/lysyi3m/osx-terminal-themes)
+
 ## 相关链接
 
 - [一个 iOS 开发者的 OS X 工作环境](https://github.com/EuanChan/set-up-mac)
