@@ -32,6 +32,7 @@
 ## 其他
 
 - [osx-terminal-themes](https://github.com/lysyi3m/osx-terminal-themes)
+- [iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes)
 
 ## 相关链接
 
