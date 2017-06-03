@@ -9,6 +9,7 @@
 
 - [Alfred](https://www.alfredapp.com/)
 - [Dash](https://kapeli.com/dash)
+- [Manico](http://manico.im)
 
 ## 开发工具
 
