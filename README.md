@@ -10,6 +10,7 @@
 - [Alfred](https://www.alfredapp.com/)
 - [Dash](https://kapeli.com/dash)
 - [Manico](http://manico.im)
+- [Quiver](http://happenapps.com/)
 
 ## 开发工具
 
