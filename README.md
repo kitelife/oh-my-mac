@@ -16,6 +16,9 @@
 
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [SourceTree](https://www.sourcetreeapp.com/)
+- [Postman](https://www.getpostman.com/)
+- [Fork](https://git-fork.com/)
+- [Dash](https://kapeli.com/dash)
 
 ## 影音工具
 
